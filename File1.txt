@@ -1,0 +1,3 @@
+SET SERVEROUTPUT ON
+--Create Game Board
+DROP TABLE board;
